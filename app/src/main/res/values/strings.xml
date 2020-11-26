@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="question">Guess the city in the image above?</string>
+    <string name="choice1">Kaduna</string>
+    <string name="choice2">Abuja</string>
+    <string name="choice3">Kano</string>
+    <string name="title">Kano State</string>
+</resources>
